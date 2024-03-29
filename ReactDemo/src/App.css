@@ -1,0 +1,37 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  background-color: black;
+  background-size: cover;
+  font-size: 2rem;
+  color: white;
+}
+
+#header {
+  margin: 2rem;
+}
+h1 {
+  font-size: 4rem;
+}
+img {
+  width: 10rem;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#buttons {
+display: flex;
+}
+
+button {
+  flex: 1;
+  height: 4rem;
+  font-size: 4rem;
+  margin: 2rem;
+}
